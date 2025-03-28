@@ -105,11 +105,11 @@ ripley_punch_module_const = 'ripleyPunch'
 ripley_punch_endpoint = '/Punch/ListPunches'
 
 # Const API
-customer_api_sandbox = 'https://customerapi-sandbox.geovictoria.com/api/v1'
-customer_api_prod = 'http://localhost:64111/api/v1'
-apiv3_api_sandbox = 'http://apiv3-sandbox.geovictoria.com/api'
-apiv3_api_prod = 'http://apiv3.geovictoria.com/api'
-apiv3_ripley = 'https://apiripleyperu.geovictoria.com/api'
+customer_api_sandbox = ''
+customer_api_prod = ''
+apiv3_api_sandbox = ''
+apiv3_api_prod = ''
+apiv3_ripley = ''
 
 headers = { 'Content-Type': 'application/json' }
 
